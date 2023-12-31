@@ -5,7 +5,7 @@ Welcome to the MyResume website portfolio! This easy-to-use template is designed
 ## Template Details
 
 - **Name:** MyResume
-- **Preview:** [Live Demo](https://bootstrapmade.com/free-html-bootstrap-template-my-resume/)
+- **Preview:** [Live Demo](https://www.coderdill.com)
 - **Created by:** [BootstrapMade.com](https://bootstrapmade.com/)
 - **License:** [BootstrapMade License](https://bootstrapmade.com/license/)
 

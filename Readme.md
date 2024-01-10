@@ -1,39 +1,67 @@
-# MyResume Website Portfolio
+# Resume
 
-Welcome to the MyResume website portfolio! This easy-to-use template is designed to showcase your professional journey and help you make a great first impression online.
+# MATTHEW DILLON - SOFTWARE DEVELOPER
 
-## Template Details
+**Email:** mddillon47@gmail.com  
+**Portfolio:** coderdill.com  
+**Phone:** 9167471721  
+**Location:** Lincoln Ca  
+**Twitter:** CoderDill  
+**LinkedIn:** coderdill  
+**GitHub:** CoderDill  
 
-- **Name:** MyResume
-- **Preview:** [Live Demo](https://www.coderdill.com)
-- **Created by:** [BootstrapMade.com](https://bootstrapmade.com/)
-- **License:** [BootstrapMade License](https://bootstrapmade.com/license/)
+## SKILLS
+**PROGRAMMING LANGUAGES:** JavaScript, Python, HTML, CSS, Typescript  
+**FRAMEWORKS:** React.js, Node.js, Vue.js, TailwindCSS, Express.js  
+**TECHNICAL SKILLS:** RESTful APIs, Data Structures & Algorithms, Docker, Github, Figma, Jira, VSCode, Jest, Jasmine, Design, Development, Coding, Testing, Usability, Troubleshooting, Debugging  
+**MANAGEMENT SKILLS:** Scheduling, Task Management, Task Delegation, Planning, Training  
+**SOFT SKILLS:** Excellent Written and Verbal Communication Skills, Honest, Reliable, Self-motivated, Growth Mindset, Always Learning, Critical Thinking, Collaboration  
+**DATABASES:** PostgreSQL, SQL  
 
-## Getting Started
+## EMPLOYMENT
+### Remote Technology Solutions Inc - Servicing Cisco Systems Inc., Software Developer
+_Nov. 2022 - Current_
+- Developed cloud events to augment CISCO's CCIE test analytics, enhancing user data interpretation and insights.
+- Utilized technologies such as Python, SQLAlchemy, PostgreSQL, Marshmallow, and Pytest.
+- Led initiatives for creating and maintaining APIs and microservices, bridging data exchange between frontend and backend systems.
+- Ensured the codebase's integrity through rigorous clean code practices and reviews.
+- Optimized backend systems for peak performance and accessibility.
 
-To get started with this template, simply clone or download the repository to your local machine.
+### Launchbadge LLC, Software Developer
+_Mar. 2022 - July 2022_
+- Pivotal in building the frontend architecture of a cutting-edge cryptocurrency exchange platform.
+- Strategically used Vue Router for intuitive App navigation and delivered pixel-perfect responsive designs.
+- Drove the creative process for the Icon Capital Reserve project, translating designs into efficient code.
+- Successfully migrated components from Vue2 Options API to Vue3 Composition API.
+- Championed pair programming to bolster software quality, adhering to industry-leading best practices.
 
-### Prerequisites
+### Thunder Valley Casino Resort, Pit Manager
+_Mar. 2011 - Mar. 2021_
+- Supervised a dynamic team of 75, handling scheduling, training, coaching, and performance evaluations.
+- Expertly managed high-stakes craps and high-limit games, ensuring optimal player satisfaction and adherence to gaming regulations.
+- Addressed and swiftly resolved a myriad of inquiries and complaints from customers, staff, and regulatory agencies.
+- Demonstrated adeptness in interpreting and executing diverse instructions—whether written, oral, or diagrammatic.
+- Navigated multifaceted gaming challenges, ensuring a seamless experience for staff, players, and management.
 
-Before you begin, make sure you have the following installed:
-- A modern web browser
-- A code editor (VSCode, Sublime Text, etc.)
+## EDUCATION
+### Springboard
+**Full Stack Certification Web Development**
+_Feb. 2021 - Mar. 2022_
+- Credential URL: https://www.credential.net/1e914879-cc4e-4493-8f12-4e45c4bc8cb5#gs.ept25x
 
-### Installation
+### University of the People
+**Associate Degree Computer Science**
+_June 2022 - Jan. 2024_
+- Proficient in a diverse range of programming languages and software engineering principles, with comprehensive training in data structures, algorithms, web programming, and database management from the University of the People's Computer Science program.
 
-1. Extract the downloaded template to a directory of your choice.
-2. Open the folder in your code editor.
-3. Modify the HTML and CSS files as needed to personalize your portfolio.
-4. Preview your changes by opening the `index.html` file in a web browser.
+## PROJECTS
+### StoryPaint
+_Winter 2021_
+- Managed a Hack-A-Thon team to develop a storybook paint app, where users can paint their own story.
+- Project URL: https://story-paint-mintbean.surge.sh/
 
-## Customization
-
-This template is designed to be fully customizable. You can edit the HTML and CSS files to add your personal touch. Be sure to update the portfolio sections with your work experience, education, skills, and projects.
-
-## Support
-
-For template support or any related issues, you can contact the BootstrapMade team through their [official support channel](https://bootstrapmade.com/contact/).
 
 ## Acknowledgments
 
 A special thanks to BootstrapMade for providing this free template. Their work and dedication to the community are truly appreciated.
+

@@ -1,5 +1,3 @@
-# Resume
-
 # MATTHEW DILLON - SOFTWARE DEVELOPER
 
 **Email:** mddillon47@gmail.com  
@@ -22,7 +20,7 @@
 ### Remote Technology Solutions Inc - Servicing Cisco Systems Inc., Software Developer
 _Nov. 2022 - Current_
 - Developed cloud events to augment CISCO's CCIE test analytics, enhancing user data interpretation and insights.
-- Utilized technologies such as Python, SQLAlchemy, PostgreSQL, Marshmallow, and Pytest.
+- Implemented technologies such as Python, SQLAlchemy, PostgreSQL, Marshmallow, and Pytest.
 - Led initiatives for creating and maintaining APIs and microservices, bridging data exchange between frontend and backend systems.
 - Ensured the codebase's integrity through rigorous clean code practices and reviews.
 - Optimized backend systems for peak performance and accessibility.
@@ -59,9 +57,3 @@ _June 2022 - Jan. 2024_
 _Winter 2021_
 - Managed a Hack-A-Thon team to develop a storybook paint app, where users can paint their own story.
 - Project URL: https://story-paint-mintbean.surge.sh/
-
-
-## Acknowledgments
-
-A special thanks to BootstrapMade for providing this free template. Their work and dedication to the community are truly appreciated.
-

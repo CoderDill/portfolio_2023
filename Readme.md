@@ -1,12 +1,12 @@
 # MATTHEW DILLON - SOFTWARE DEVELOPER
 
--**Email:** mddillon47@gmail.com  
--**Portfolio:** [coderdill.com](http://coderdill.com)
--**Phone:** `9167471721`
--**Location:** Lincoln Ca
--**Twitter:** [@CoderDill](https://twitter.com/CoderDill)
--**LinkedIn:** [coderdill](https://www.linkedin.com/in/coderdill)
--**GitHub:** [CoderDill](https://github.com/CoderDill)
+- **Email:** mddillon47@gmail.com  
+- **Portfolio:** [coderdill.com](http://coderdill.com)  
+- **Phone:** `9167471721`  
+- **Location:** Lincoln Ca  
+- **Twitter:** [@CoderDill](https://twitter.com/CoderDill)  
+- **LinkedIn:** [coderdill](https://www.linkedin.com/in/coderdill)  
+- **GitHub:** [CoderDill](https://github.com/CoderDill)  
 
 
 ## SKILLS
